@@ -1,4 +1,4 @@
-package com.tnsif.assignmentone.Assignment1;
+package Assignment1;
 
 public class AssignmentMain {
 
